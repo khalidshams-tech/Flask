@@ -6,7 +6,7 @@ A Python Flask learning repository for practicing web application structure, rou
 
 This repository contains Flask practice work completed while learning Python web development. It is currently a learning lab rather than a polished single application, so the main portfolio value is showing steady progress with Flask, Python, and web app organization.
 
-For a professional portfolio, this repo should eventually be renamed, cleaned, and organized around one clear project or a set of clearly separated labs.
+For a professional portfolio, this repo should eventually be organized around one clear project or a set of clearly separated labs.
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@ For a professional portfolio, this repo should eventually be renamed, cleaned, a
 ## Current Structure
 
 ```text
-Flask/
+flask-learning-labs/
 +-- README.md
 +-- Flask_IT111/
 ```
@@ -37,13 +37,13 @@ Flask/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/khalidshams-tech/Flask.git
+git clone https://github.com/khalidshams-tech/flask-learning-labs.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd Flask
+cd flask-learning-labs
 ```
 
 3. Review the project folders and follow any instructions inside each lab folder.
@@ -86,7 +86,6 @@ Example:
 
 ## Future Improvements
 
-- Rename this repository to `flask-learning-labs`
 - Add a clear README inside each lab folder
 - Remove unused files or generated folders
 - Add requirements files for each runnable Flask app
